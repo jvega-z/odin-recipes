@@ -1,0 +1,48 @@
+h1 {
+  text-align: center;
+  font-size: 50px;
+  color: white;
+  background-color: black;
+  padding: 15px;
+}
+
+.home {
+  border: 2px solid black;
+  padding: 8px;
+  background-color: black;
+  color: white;
+  text-decoration: none;
+}
+
+ul a {
+  color: rgb(28, 39, 190);
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+h2 {
+  color: rgb(32, 92, 203);
+  background-color: bisque;
+  padding: 10px;
+  text-align: center;
+}
+
+p,
+ul li,
+ol li {
+  color: rgb(91, 19, 159);
+  font-size: 20px;
+}
+
+p,
+ul,
+ol {
+  margin: 30px 100px;
+}
+
